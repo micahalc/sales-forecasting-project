@@ -1,0 +1,11 @@
+# Virtual environment and PyCharm settings
+.venv/
+.idea/
+
+# Python and Jupyter caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Row-level data: not published until the dataset license is checked
+data/raw/
+data/processed/superstore_clean.csv
